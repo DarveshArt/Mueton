@@ -1,7 +1,7 @@
 This folder explains the philosophy all developers need to refer before entering this endeavour.
 
 
-For example, One of the most legendary victory of machine over man occurred in 1987. IBMís tailor-made chess computer Deep Blue defeated Garry Kasparov, the most highly ranked player in the world. This was a landmark for AI.
+For example, One of the most legendary victory of machine over man occurred in 1987. IBM‚Äôs tailor-made chess computer Deep Blue defeated Garry Kasparov, the most highly ranked player in the world. This was a landmark for AI.
 
 Chess-playing computers shed little light on the question of mechanized cognition. They unashamedly rely on the ability of machines to consider hundreds of millions of moves per second. Kasparov can only examine a maximum of three moves per second. Deep Blue won using brute force, not brains.
 
@@ -12,7 +12,7 @@ Touting Deep Blue as a success amounts to Al putting its hands up and admitting 
 
 This lack of progress has led practitioners of Al to take stock. Are the current approaches to Al misguided, or are we just around the corner from a breakthrough? A number of researchers suspect the former, and have actively sought to re-orientate Al.
 
-ìÖ the cognitivistic paradigmís neglect of the fact that intelligent agents live in a real physical world leads to significant shortcomings in explaining intelligence.î ñ Rolf Pfeifer and Christian Scheier
+‚Äú‚Ä¶ the cognitivistic paradigm‚Äôs neglect of the fact that intelligent agents live in a real physical world leads to significant shortcomings in explaining intelligence.‚Äù ‚Äì Rolf Pfeifer and Christian Scheier
 
 Books:
 Introducing Artificial Intelligence, A Graphic Guide - Henry Brighton, Howard Selina
@@ -21,16 +21,17 @@ Introducing Artificial Intelligence, A Graphic Guide - Henry Brighton, Howard Se
 Coming to 2018
 ==============
 
-Sophia the robotís co-creator says the bot may not be true AI, but it is a work of art.
+Sophia the robot‚Äôs co-creator says the bot may not be true AI, but it is a work of art.
 This may shed some light on the where Strong AI actually stands.
 
-"Experts in the field sometimes decry Sophia as emblematic of AI hype, and say that although the bot is presented as being a few software updates away from human-level consciousness, itís more about illusion than intelligence."
+"Experts in the field sometimes decry Sophia as emblematic of AI hype, and say that although the bot is presented as being a few software updates away from human-level consciousness, it‚Äôs more about illusion than intelligence."
 
-"For Ben Goertzel, chief scientist at Hanson Robotics, the company that made Sophia, the situation is conflicting, to say the least. In interviews with The Verge, Goertzel said it was ìnot idealî that some thought of Sophia as having artificial general intelligence or AGI (the industry term for human-equivalent intelligence) but, he acknowledged that the misconception did have its upsides."
+"For Ben Goertzel, chief scientist at Hanson Robotics, the company that made Sophia, the situation is conflicting, to say the least. In interviews with The Verge, Goertzel said it was ‚Äúnot ideal‚Äù that some thought of Sophia as having artificial general intelligence or AGI (the industry term for human-equivalent intelligence) but, he acknowledged that the misconception did have its upsides."
 
-And by upsides he meant this "For Ben Goertzel, chief scientist at Hanson Robotics, the company that made Sophia, the situation is conflicting, to say the least. In interviews with The Verge, Goertzel said it was ìnot idealî that some thought of Sophia as having artificial general intelligence or AGI (the industry term for human-equivalent intelligence) but, he acknowledged that the misconception did have its upsides."
+And by upsides he meant this 
+"For most of my career as a researcher people believed that it was hopeless, that you‚Äôll never achieve human-level AI.‚Äù Now, he says, half the public thinks we‚Äôre already there. And in his opinion it‚Äôs better to overestimate, rather than underestimate, our chances of creating machines cleverer than humans. ‚ÄúI‚Äôm a huge AGI optimist, and I believe we will get there in five to ten years from now. From that standpoint, thinking we‚Äôre already there is a smaller error than thinking we‚Äôll never get there,‚Äù says Goertzel.
 
-ìWhat does a startup get out of having massive international publicity?î he says. ìThis is obvious.î
+‚ÄúWhat does a startup get out of having massive international publicity?‚Äù he says. ‚ÄúThis is obvious.‚Äù
 
 https://www.theverge.com/2017/11/10/16617092/sophia-the-robot-citizen-ai-hanson-robotics-ben-goertzel
 
